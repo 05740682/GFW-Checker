@@ -12,7 +12,7 @@
 ## 技术架构
 
 - **运行时**：Cloudflare Workers
-- **存储**：Workers KV
+- **存储**：Workers KV - 变量为小写kv
 - **安全**：SHA-256 密码加密 + 代码混淆
 - **前端**：HTML5 + CSS3 + JavaScript
 

@@ -1,6 +1,6 @@
 # SiteNav
 
-一个基于 Cloudflare Workers 的简易网站导航工具。
+一个基于 Cloudflare Workers & Pages的简易网站导航工具。
 
 ## 功能特点
 

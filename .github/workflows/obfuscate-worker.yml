@@ -91,7 +91,9 @@ jobs:
       - name: Create or Update Release
         uses: softprops/action-gh-release@v1
         with:
-          files: _worker.zip _worker.js
+          files: |
+            _worker.zip
+            _worker.js
           tag_name: "v1.0"
           name: "Release v1.0"
           draft: false

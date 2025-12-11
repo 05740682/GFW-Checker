@@ -1,6 +1,6 @@
 # SiteNav
 
-一个基于 Cloudflare Workers & Pages的简易网站导航工具。
+一个基于 Cloudflare Workers & Pages 的简易网站导航工具。
 
 ## 功能特点
 
@@ -39,4 +39,4 @@
 本项目采用 **MIT License**。
 
 ### 第三方依赖
-- **javascript-obfuscator**: BSD-2-Clause License
+- **[javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)**: BSD-2-Clause License
